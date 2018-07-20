@@ -1,1 +1,1 @@
-# nauka-gita-3
+https://cygp.github.io/nauka-gita-3/
