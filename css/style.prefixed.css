@@ -1,0 +1,25 @@
+*{box-sizing:border-box;}
+body {
+	margin:0 auto;
+	background-color: #3D3D3D;
+}
+h1, h2 {
+	text-transform: uppercase;
+}
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	    flex-direction: column;
+	-ms-flex-align: center;
+	    align-items: center;
+	font-family: 'Lato', sans-serif;
+	background-color: #fff;
+	display: flex;
+}
+.verse {
+	padding: 10px;
+	font-style: italic;
+}
