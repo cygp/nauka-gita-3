@@ -1,0 +1,13 @@
+body {
+	display: flex;
+	.test {
+  	transform:rotate(45deg);
+  	display: flex;
+	flex-wrap: wrap;
+	box-shadow: 5px;
+	}
+	.test-2 {
+	display: flex;
+	}
+}
+
